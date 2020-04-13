@@ -1,0 +1,12 @@
+C:\My Comp HP\Lucrari de laborator\Anul III\Semestrul VI\Tehnologii si metode de proiectare software(TMPS)\Observer\Observer\Observer\bin\Debug\Observer.exe.config
+C:\My Comp HP\Lucrari de laborator\Anul III\Semestrul VI\Tehnologii si metode de proiectare software(TMPS)\Observer\Observer\Observer\bin\Debug\Observer.exe
+C:\My Comp HP\Lucrari de laborator\Anul III\Semestrul VI\Tehnologii si metode de proiectare software(TMPS)\Observer\Observer\Observer\bin\Debug\Observer.pdb
+C:\My Comp HP\Lucrari de laborator\Anul III\Semestrul VI\Tehnologii si metode de proiectare software(TMPS)\Observer\Observer\Observer\obj\Debug\Observer.csprojAssemblyReference.cache
+C:\My Comp HP\Lucrari de laborator\Anul III\Semestrul VI\Tehnologii si metode de proiectare software(TMPS)\Observer\Observer\Observer\obj\Debug\Observer.exe
+C:\My Comp HP\Lucrari de laborator\Anul III\Semestrul VI\Tehnologii si metode de proiectare software(TMPS)\Observer\Observer\Observer\obj\Debug\Observer.pdb
+D:\Lucrari de laborator\Anul III\Semestrul VI\Tehnologii si metode de proiectare software(TMPS)\Behavioral Patterns\Observer\Observer\Observer\bin\Debug\Observer.exe.config
+D:\Lucrari de laborator\Anul III\Semestrul VI\Tehnologii si metode de proiectare software(TMPS)\Behavioral Patterns\Observer\Observer\Observer\bin\Debug\Observer.exe
+D:\Lucrari de laborator\Anul III\Semestrul VI\Tehnologii si metode de proiectare software(TMPS)\Behavioral Patterns\Observer\Observer\Observer\bin\Debug\Observer.pdb
+D:\Lucrari de laborator\Anul III\Semestrul VI\Tehnologii si metode de proiectare software(TMPS)\Behavioral Patterns\Observer\Observer\Observer\obj\Debug\Observer.csprojAssemblyReference.cache
+D:\Lucrari de laborator\Anul III\Semestrul VI\Tehnologii si metode de proiectare software(TMPS)\Behavioral Patterns\Observer\Observer\Observer\obj\Debug\Observer.exe
+D:\Lucrari de laborator\Anul III\Semestrul VI\Tehnologii si metode de proiectare software(TMPS)\Behavioral Patterns\Observer\Observer\Observer\obj\Debug\Observer.pdb
